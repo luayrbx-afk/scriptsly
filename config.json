@@ -1,1 +1,6 @@
-
+{
+  "ui_name": "LuayRBX",
+  "ui_icon": "",
+  "repo_api": "https://api.github.com/repos/luayrbx-afk/scriptsly/contents/",
+  "raw_base": "https://raw.githubusercontent.com/luayrbx-afk/scriptsly/main/"
+}
